@@ -1,0 +1,137 @@
+body {
+  background-color: #dbf6e9;
+  text-align: center;
+  margin: 0;
+font-family: 'Merienda One', cursive;
+line-height: 2;
+}
+h1 {
+  color: black;
+  margin: 50px auto;
+}
+h2 {
+  font-family: 'IM Fell Great Primer SC', serif;
+  margin: 100px auto 50px;
+}
+h3 {
+  font-family: 'IM Fell Great Primer SC', serif;
+  margin: 100px auto 50px;
+  width: 1000px;
+}
+p {
+  font-family: 'IM Fell Great Primer SC', serif;
+  font-size: 150%
+}
+hr {
+  border: silver dotted 5px;
+  border-bottom: none;
+  width: 5%;
+  margin: 50px auto 100px;
+}
+td {
+  width: 225px;
+}
+th {
+  width: 225px;
+}
+a:hover {
+  color: white;
+}
+a {
+  color: black;
+  text-decoration: none;
+  padding-left: 20px;
+}
+
+.lp-group {
+  background-color: white;
+}
+.img-user {
+  width: 35px;
+  float: left;
+  position: absolute;
+  left: 365px;
+  top: 110px;
+}
+.img-laptop1 {
+  width: 400px;
+}
+.img-laptop3 {
+  width: 400px;
+}
+.img-grills {
+  width: 200px;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+}
+.img-chola-rice {
+ width: 200px;
+ height: 200px;
+}
+.img-chicken-rice {
+  width: 200px;
+  height: 200px;
+}
+.first-container {
+margin-top: 100px;
+}
+.secound-container {
+  margin: 100px auto;
+}
+
+.first-h1 {
+ width: 40%;
+}
+.first-h2 {
+  margin-bottom: 100px;
+}
+
+.paragraph1 {
+  margin: 100px auto;
+  width: 40%;
+}
+
+.div-table {
+  margin: auto;
+  width: 800px;
+}
+.contact-me{
+  width: 400px;
+  margin: 50px auto 75px;
+
+}
+.third-div{
+  margin: 50px auto 200px;
+}
+.the-end {
+  background-color: #a7cbf2;
+  padding: 50px 0 20px;
+  margin: 50px auto 0;
+}
+.btn {
+  background: black;
+  background-image: -webkit-linear-gradient(top, black, grey);
+  background-image: -moz-linear-gradient(top, black, grey);
+  background-image: -ms-linear-gradient(top, black, grey);
+  background-image: -o-linear-gradient(top, black, grey);
+  background-image: linear-gradient(to bottom, black, grey);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #948a94;
+  background-image: -webkit-linear-gradient(top, #948a94, #535b61);
+  background-image: -moz-linear-gradient(top, #948a94, #535b61);
+  background-image: -ms-linear-gradient(top, #948a94, #535b61);
+  background-image: -o-linear-gradient(top, #948a94, #535b61);
+  background-image: linear-gradient(to bottom, #948a94, #535b61);
+  text-decoration: none;
+}
